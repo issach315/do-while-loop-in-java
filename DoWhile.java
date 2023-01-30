@@ -14,7 +14,7 @@ public class DoWhile
             System.out.println("india"); 
             
             i++;
-        } while (i<=10);
+        } while (i<=10);// if conditiona false it will print the adta for one time and it checks the condtion for next iteration 
         
     }
 
