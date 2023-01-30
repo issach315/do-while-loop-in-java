@@ -15,7 +15,7 @@ public class DoWhile
             
             i++;
         } while (i<=10);// if conditiona false it will print the adta for one time and it checks the condtion for next iteration 
-        
+        // first it peints then try to check the condition 
     }
 
 }
